@@ -74,8 +74,7 @@
               "RelativeToolTip": "LibreriaEuro\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:59:07.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:59:07.184Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "LibreriaEuro\\6_Controllers\\AutoresController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:46:56.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T09:46:56.045Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "LibreriaEuro\\5_Servicios\\AutorService.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T03:43:28.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T03:43:28.551Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\IAutorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T03:08:17.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T03:08:17.026Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAmwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T14:55:38.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T14:55:38.374Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T15:01:47.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T15:01:47.439Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:09:34.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T10:09:34.773Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\ILibroRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T01:16:17.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T01:16:17.272Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "LibreriaEuro\\5_Servicios\\LibroService.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAuwGgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T22:38:21.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T22:38:21.187Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\ILibroService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T01:17:52.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T01:17:52.451Z"
             },
             {
               "$type": "Document",
@@ -228,6 +218,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
