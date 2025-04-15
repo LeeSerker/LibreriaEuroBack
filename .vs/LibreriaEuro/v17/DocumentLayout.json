@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\",
+  "WorkspaceRootPath": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\5_servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\5_servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\6_controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\6_controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\6_controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\2_repositorios\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\2_repositorios\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\6_controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\6_controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\2_repositorios\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\2_repositorios\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\5_servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\5_servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\3_interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\3_interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\source\\repos\\libreriaeuro\\libreriaeuro\\0_data\\librerodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\6_controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\6_controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\5_servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\5_servicios\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\3_interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\3_interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\2_repositorios\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\2_repositorios\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\3_interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\3_interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\2_repositorios\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\2_repositorios\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\3_interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\3_interfaces\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\5_servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\5_servicios\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\3_interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\3_interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|c:\\users\\win11 pro\\desktop\\git\\libreriaeuroback\\libreriaeuro\\0_data\\librerodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C5EBB9-744A-4650-AFFE-813F557BF3DF}|LibreriaEuro\\LibreriaEuro.csproj|solutionrelative:libreriaeuro\\0_data\\librerodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -45,57 +57,61 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 766,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibroService.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\5_Servicios\\LibroService.cs",
-              "RelativeDocumentMoniker": "LibreriaEuro\\5_Servicios\\LibroService.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\5_Servicios\\LibroService.cs",
-              "RelativeToolTip": "LibreriaEuro\\5_Servicios\\LibroService.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAQwHoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T22:38:21.187Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\Program.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\Program.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\Program.cs",
+              "RelativeToolTip": "LibreriaEuro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:59:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\6_Controllers\\LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\6_Controllers\\LibrosController.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\6_Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\6_Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\6_Controllers\\LibrosController.cs",
               "RelativeToolTip": "LibreriaEuro\\6_Controllers\\LibrosController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAqwEoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T09:46:26.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AutoresController.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\6_Controllers\\AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\6_Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\6_Controllers\\AutoresController.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\6_Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\6_Controllers\\AutoresController.cs",
               "RelativeToolTip": "LibreriaEuro\\6_Controllers\\AutoresController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T09:46:56.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AutorService.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\5_Servicios\\AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\5_Servicios\\AutorService.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\5_Servicios\\AutorService.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\5_Servicios\\AutorService.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\5_Servicios\\AutorService.cs",
               "RelativeToolTip": "LibreriaEuro\\5_Servicios\\AutorService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwCcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T03:43:28.551Z",
               "EditorCaption": ""
@@ -103,38 +119,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\IAutorService.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\3_Interfaces\\IAutorService.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\IAutorService.cs",
+              "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\IAutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T03:08:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
               "RelativeToolTip": "LibreriaEuro\\2_Repositorios\\AutorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T14:55:38.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LibroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
-              "RelativeDocumentMoniker": "LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
-              "RelativeToolTip": "LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAcwD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:09:34.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IAutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
               "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\IAutorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T15:01:47.439Z",
               "EditorCaption": ""
@@ -142,28 +158,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\Program.cs",
-              "RelativeDocumentMoniker": "LibreriaEuro\\Program.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\Program.cs",
-              "RelativeToolTip": "LibreriaEuro\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAaAAAAAAAAAA==",
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
+              "RelativeToolTip": "LibreriaEuro\\2_Repositorios\\LibroRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:59:07.184Z",
+              "WhenOpened": "2025-04-14T10:09:34.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\3_Interfaces\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\ILibroRepository.cs",
+              "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\ILibroRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:16:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\5_Servicios\\LibroService.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\5_Servicios\\LibroService.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\5_Servicios\\LibroService.cs",
+              "RelativeToolTip": "LibreriaEuro\\5_Servicios\\LibroService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:38:21.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\ILibroService.cs",
+              "RelativeDocumentMoniker": "LibreriaEuro\\3_Interfaces\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\3_Interfaces\\ILibroService.cs",
+              "RelativeToolTip": "LibreriaEuro\\3_Interfaces\\ILibroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:17:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LibreroDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\0_Data\\LibreroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\0_Data\\LibreroDbContext.cs",
               "RelativeDocumentMoniker": "LibreriaEuro\\0_Data\\LibreroDbContext.cs",
-              "ToolTip": "C:\\Users\\Win11 Pro\\source\\repos\\LibreriaEuro\\LibreriaEuro\\0_Data\\LibreroDbContext.cs",
+              "ToolTip": "C:\\Users\\Win11 Pro\\Desktop\\git\\LibreriaEuroBack\\LibreriaEuro\\0_Data\\LibreroDbContext.cs",
               "RelativeToolTip": "LibreriaEuro\\0_Data\\LibreroDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:56:38.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T05:56:38.765Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 733,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

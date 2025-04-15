@@ -8,5 +8,6 @@ namespace LibreriaEuro.Interfaces
         Task CrearAutor(AutorDTO autor);
         Task<bool> ActualizarAutor(int id, AutorDTO autor);
         Task<bool> EliminarAutor(int id);
+        Task<List<AutorDTO>> BuscarAutores(string? rut, string? nombreCompleto);
     }
 }

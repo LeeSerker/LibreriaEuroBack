@@ -77,5 +77,19 @@ namespace LibreriaEuro.Servicios
 
             return resultado;
         }
+
+        public async Task<List<AutorDTO>> BuscarAutores(string? rut, string? nombreCompleto)
+        {
+            var autores = await _autorRepository.BuscarAutores(rut, nombreCompleto);
+
+            return autores.Select(a => new AutorDTO
+            {
+                Rut = a.Rut,
+                NombreCompleto = a.NombreCompleto,
+                FechaNacimiento = a.FechaNacimiento,
+                CiudadOrigen = a.CiudadOrigen,
+                Mail = a.Mail
+            }).ToList();
+        }
     }
 }

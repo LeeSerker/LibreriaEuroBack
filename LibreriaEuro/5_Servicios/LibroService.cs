@@ -117,7 +117,7 @@ namespace LibreriaEuro.Servicios
                 query = query.Where(l => l.Anno == anno.Value);
 
             var libros = await query.ToListAsync();
-            //ok
+            
             return libros.Select(l => new LibroDTO
             {
                 Titulo = l.Titulo,

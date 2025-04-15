@@ -55,5 +55,19 @@ namespace LibreriaEuro.Repositorios
             return await _context.Autores.AnyAsync(a => a.Rut == rutAutor);
         }
 
+        public async Task<List<Autor>> BuscarAutores(string? rut, string? nombreCompleto)
+        {
+            var query = _context.Autores.AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(rut))
+                query = query.Where(a => a.Rut.Contains(rut));
+
+            if (!string.IsNullOrWhiteSpace(nombreCompleto))
+                query = query.Where(a => a.NombreCompleto.Contains(nombreCompleto));
+
+            return await query.ToListAsync();
+        }
+
+
     }
 }

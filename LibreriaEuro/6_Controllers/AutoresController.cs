@@ -56,5 +56,15 @@ namespace LibreriaEuro.Controllers
 
             return NoContent();
         }
+
+        [HttpGet("Buscar")]
+        public async Task<ActionResult<List<AutorDTO>>> BuscarAutores(
+        [FromQuery] string? rut,
+        [FromQuery] string? nombreCompleto)
+        {
+            var resultado = await _autorService.BuscarAutores(rut, nombreCompleto);
+
+            return Ok(resultado);
+        }
     }
 }

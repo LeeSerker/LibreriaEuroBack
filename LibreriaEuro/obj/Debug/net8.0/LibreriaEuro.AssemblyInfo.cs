@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaEuro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+218a2ec2fea3a21ba6ab63100179fd9ae3ac26dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+584f3252dae0e88028a6e7c7e7c2275d5313d4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaEuro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaEuro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

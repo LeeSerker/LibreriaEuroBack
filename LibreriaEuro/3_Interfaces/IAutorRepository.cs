@@ -10,5 +10,7 @@ namespace LibreriaEuro.Interfaces
         Task<bool> EliminarAutor(int id);
         Task<Autor?> ObtenerAutorPorId(int id);
         Task<bool> ExisteAutorPorRut(string rutAutor);
+        Task<List<Autor>> BuscarAutores(string? rut, string? nombreCompleto);
+        //IQueryable<Libro> ObtenerAutores();
     }
 }
